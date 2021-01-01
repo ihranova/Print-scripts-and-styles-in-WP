@@ -1,1 +1,1 @@
-# Print-scripts-and-styles-in-WP
+# Print scripts and styles in WP
